@@ -9,5 +9,6 @@ python3 app.py
 # Windows
 Navegar até o diretório raiz
 python app.py
-
+ou
+py app.py
 
